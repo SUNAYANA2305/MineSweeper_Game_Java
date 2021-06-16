@@ -1,5 +1,5 @@
 # MineSweeper_Game_Java
-Implementing Minesweeper gmae with the following restrictions:
+Implementing Minesweeper GAME with the following restrictions:
 
 Levels: "Beginner", "Advanced" and "Expert".
 Board size: Beginner: board 7x9 and 10 mines, 
